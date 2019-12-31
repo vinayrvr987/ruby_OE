@@ -1,0 +1,2 @@
+puts "sastra"
+puts "deemed"
